@@ -66,6 +66,8 @@ Hello everyone, I want to tell about my jorney. The **main reasone** I started t
     }
     ```
 
+=======================================================
+
 ## Projets
 
 I have a few of projects that I like to show.
@@ -75,6 +77,13 @@ I have a few of projects that I like to show.
 
 **Responsive site**
     2. https://umar094.github.io/sideProject/
+
+========================================================
+
+
+## My English
+
+    I think my english is between A1 and A2, I learned english watching videos, movies, reading, in english, not so far I started learning some words in Anki. 
 
 
 
