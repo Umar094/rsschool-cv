@@ -67,11 +67,9 @@ function bingo(ticket, win){
 
 I have a few of projects that I like to show.
 
-**Calculator**
-1. https://umar094.github.io/calculator-app-main/
+* **[Calculator](https://umar094.github.io/calculator-app-main/)**
 
-**Responsive site**
-2. https://umar094.github.io/sideProject/
+* **[Responsive site](https://umar094.github.io/sideProject/)**
 
 ## My English
 
